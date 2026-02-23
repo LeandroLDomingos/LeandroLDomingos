@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github-readme-activity-graph.vercel.app)",
+      "WebFetch(domain:streak-stats.demolab.com)"
+    ]
+  }
+}
