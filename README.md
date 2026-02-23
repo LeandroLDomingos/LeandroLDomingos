@@ -114,76 +114,27 @@ hobbies:
 
 <h2>🏛️ Projetos — Prefeitura de Lagoa Santa</h2>
 
-> Stack: `Laravel` + `Inertia.js` + `Vue.js` | `SQL` | `Deployer` | `Docker`
+<p align="center">
+  <sub>Stack principal: <code>Laravel</code> + <code>Inertia.js</code> + <code>Vue.js</code> | <code>SQL</code> | <code>Deployer</code> | <code>Docker</code></sub>
+</p>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏟️ [Lagoa Sport](https://lagoasport.lagoasanta.mg.gov.br/)
-Sistema inteligente para agendamento de quadras e espaços esportivos municipais.
+<div align="center">
+  <a href="https://lagoasport.lagoasanta.mg.gov.br/">
+    <img src="./assets/card-lagoasport.svg" width="400"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://frotaslsteste.lagoasanta.mg.gov.br/">
+    <img src="./assets/card-frotas.svg" width="400"/>
+  </a>
+</div>
 <br/>
-<sub>
-
-`Laravel` `Inertia` `Vue` `PostgreSQL` `Docker`
-
-</sub>
-<br/>
-<a href="https://lagoasport.lagoasanta.mg.gov.br/">
-  <img src="https://img.shields.io/badge/▶_Acessar_Aplicação-87CEEB?style=for-the-badge&logoColor=black&logo=googlechrome"/>
-</a>
-
-</td>
-<td width="50%">
-
-### 🚗 [Frotas](https://frotaslsteste.lagoasanta.mg.gov.br/)
-Sistema robusto para controle e gestão logística da frota municipal.
-<br/>
-<sub>
-
-`Laravel` `Inertia` `Vue` `SQL` `Deployer`
-
-</sub>
-<br/>
-<a href="https://frotaslsteste.lagoasanta.mg.gov.br/">
-  <img src="https://img.shields.io/badge/▶_Acessar_Aplicação-87CEEB?style=for-the-badge&logoColor=black&logo=googlechrome"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📋 [Portal de Emendas](https://portalemendas.lagoasanta.mg.gov.br/)
-Portal de transparência e gestão de emendas parlamentares municipais.
-<br/>
-<sub>
-
-`Laravel` `Inertia` `Vue` `SQL` `Docker`
-
-</sub>
-<br/>
-<a href="https://portalemendas.lagoasanta.mg.gov.br/">
-  <img src="https://img.shields.io/badge/▶_Acessar_Aplicação-87CEEB?style=for-the-badge&logoColor=black&logo=googlechrome"/>
-</a>
-
-</td>
-<td width="50%">
-
-### 📄 Lagoa GED
-Sistema de Gerenciamento Eletrônico de Documentos para digitalização e organização documental interna.
-<br/>
-<sub>
-
-`Laravel` `Inertia` `Vue` `SQL` `Docker`
-
-</sub>
-<br/>
-<img src="https://img.shields.io/badge/🔒_Acesso_Interno-6e7681?style=for-the-badge"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <a href="https://portalemendas.lagoasanta.mg.gov.br/">
+    <img src="./assets/card-emendas.svg" width="400"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="./assets/card-ged.svg" width="400"/>
+</div>
 
 ---
 
@@ -191,40 +142,13 @@ Sistema de Gerenciamento Eletrônico de Documentos para digitalização e organi
 
 <h2>🚀 Projetos Pessoais — Devnity</h2>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🚕 [Minas Taxi](https://minastaxi.devnity.com.br/)
-Plataforma de transporte por aplicativo focada em Minas Gerais.
-<br/>
-<sub>
-
-`Laravel` `Vue` `Docker` `API REST`
-
-</sub>
-<br/>
-<a href="https://minastaxi.devnity.com.br/">
-  <img src="https://img.shields.io/badge/▶_Acessar_Aplicação-87CEEB?style=for-the-badge&logoColor=black&logo=googlechrome"/>
-</a>
-
-</td>
-<td width="50%">
-
-### 🏦 Finnity
-Plataforma de gestão financeira pessoal com integração via WhatsApp.
-<br/>
-<sub>
-
-`TypeScript` `Node.js` `WhatsApp API`
-
-</sub>
-<br/>
-<img src="https://img.shields.io/badge/🔧_Em_Desenvolvimento-f0883e?style=for-the-badge"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <a href="https://minastaxi.devnity.com.br/">
+    <img src="./assets/card-minataxi.svg" width="400"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="./assets/card-finnity.svg" width="400"/>
+</div>
 
 ---
 
@@ -232,13 +156,9 @@ Plataforma de gestão financeira pessoal com integração via WhatsApp.
 
 <h2>⚙️ Meu Pipeline DevOps</h2>
 
-```
-┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
-│   📝 Code    │───▶│   🐳 Docker  │───▶│  🚀 Deploy   │───▶│  🌐 DNS      │───▶│  🔒 Nginx    │
-│   Laravel    │    │   Compose    │    │   Deployer   │    │   Config     │    │   Proxy      │
-│   Vue.js     │    │   Build      │    │   CI/CD      │    │   Records    │    │   SSL/TLS    │
-└──────────────┘    └──────────────┘    └──────────────┘    └──────────────┘    └──────────────┘
-```
+<div align="center">
+  <img src="./assets/pipeline.svg" width="850"/>
+</div>
 
 ---
 
