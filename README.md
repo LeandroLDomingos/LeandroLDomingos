@@ -80,7 +80,7 @@
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1&pause=999999&color=87CEEB&center=true&vCenter=true&width=500&lines=%5B+status+%3A%3A+em+desenvolvimento+%5D" alt="status"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1&pause=999999&color=87CEEB&center=true&vCenter=true&width=700&lines=%5B+status+%3A%3A+em+desenvolvimento+%5D" alt="status"/>
 </div>
 
 <br/>
@@ -101,7 +101,7 @@
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1&pause=999999&color=87CEEB&center=true&vCenter=true&width=550&lines=%5B+projetos+%3A%3A+prefeitura+de+lagoa+santa+%5D" alt="projetos prefeitura"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1&pause=999999&color=87CEEB&center=true&vCenter=true&width=750&lines=%5B+projetos+%3A%3A+prefeitura+de+lagoa+santa+%5D" alt="projetos prefeitura"/>
 </div>
 
 <p align="center">
