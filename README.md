@@ -39,10 +39,6 @@
 
 <h2>💻 Sobre Mim</h2>
 
-<table>
-<tr>
-<td valign="top" width="55%">
-
 ```yaml
 nome: Leandro Lucas Domingos
 localização: Lagoa Santa, MG 🇧🇷
@@ -65,73 +61,41 @@ hobbies:
   - 🎮 Modding Minecraft (KubeJS + ATM10)
 ```
 
-</td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LeandroLDomingos&show_icons=true&bg_color=0d1117&hide_border=true&icon_color=87CEEB&title_color=87CEEB&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- TROFEUS -->
-
-<h2>🏆 Troféus GitHub</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeandroLDomingos&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</div>
-
 ---
 
 <!-- TECH STACK -->
 
 <h2>🛠️ Tech Stack</h2>
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-<h3 align="center">⚡ Backend</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertiajs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<h3>⚡ Backend</h3>
+
+<a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>&nbsp;
+<a href="https://php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>&nbsp;
+<a href="https://inertiajs.com"><img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js"/></a>&nbsp;
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>&nbsp;
+<a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+
+<h3>🎨 Frontend</h3>
+
+<a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/></a>&nbsp;
+<a href="https://react.dev"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>&nbsp;
+<a href="https://typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>&nbsp;
+<a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></a>
+
+<h3>🛠️ DevOps & Infra</h3>
+
+<a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>&nbsp;
+<a href="https://kernel.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>&nbsp;
+<a href="https://nginx.org"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>&nbsp;
+<a href="https://deployer.org"><img src="https://img.shields.io/badge/Deployer-000000?style=for-the-badge&logo=php&logoColor=white" alt="Deployer"/></a>&nbsp;
+<a href="https://postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>&nbsp;
+<a href="https://mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>&nbsp;
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+
 </div>
-
-</td>
-<td valign="top" width="33%">
-
-<h3 align="center">🎨 Frontend</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-<h3 align="center">🛠️ DevOps & Infra</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deployer-000000?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -215,9 +179,24 @@ hobbies:
 <h2>📊 Estatísticas</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLDomingos&layout=compact&bg_color=0d1117&hide_border=true&title_color=87CEEB&text_color=8b949e&langs_count=8"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LeandroLDomingos&show_icons=true&bg_color=0d1117&hide_border=true&icon_color=87CEEB&title_color=87CEEB&text_color=8b949e&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LeandroLDomingos&show_icons=true&include_all_commits=true&count_private=true" height="170"/>
+  </picture>
   &nbsp;&nbsp;
-  <img height="170" src="https://streak-stats.demolab.com/?user=LeandroLDomingos&background=0d1117&hide_border=true&ring=87CEEB&fire=87CEEB&currStreakLabel=87CEEB&sideLabels=87CEEB&currStreakNum=8b949e&sideNums=8b949e&dates=6e7681"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=LeandroLDomingos&background=0d1117&hide_border=true&ring=87CEEB&fire=87CEEB&currStreakLabel=87CEEB&sideLabels=87CEEB&currStreakNum=8b949e&sideNums=8b949e&dates=6e7681"/>
+    <img src="https://streak-stats.demolab.com/?user=LeandroLDomingos" height="170"/>
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLDomingos&layout=compact&bg_color=0d1117&hide_border=true&title_color=87CEEB&text_color=8b949e&langs_count=8"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLDomingos&layout=compact&langs_count=8" height="170"/>
+  </picture>
 </div>
 
 ---
