@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:00ff41&height=200&section=header&text=Leandro%20Lucas%20Domingos&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Coordenador%20de%20Sistemas%20%7C%20DevOps%20%7C%20Fundador%20Devnity&descSize=16&descAlignY=55&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:87CEEB&height=200&section=header&text=Leandro%20Lucas%20Domingos&fontSize=42&fontColor=87CEEB&animation=fadeIn&fontAlignY=35&desc=Coordenador%20de%20Sistemas%20%7C%20DevOps%20%7C%20Fundador%20Devnity&descSize=16&descAlignY=55&descColor=8b949e"/>
 
 </div>
 
@@ -30,12 +30,9 @@
 
 <!-- ABOUT -->
 
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"/>
-  &nbsp;Sobre Mim
-</h2>
+<h2>💻 Sobre Mim</h2>
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api?username=LeandroLDomingos&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=8b949e&include_all_commits=true&count_private=true"/>
+<img align="right" width="280" src="https://github-readme-stats.vercel.app/api?username=LeandroLDomingos&show_icons=true&bg_color=0d1117&hide_border=true&icon_color=87CEEB&title_color=87CEEB&text_color=8b949e&include_all_commits=true&count_private=true"/>
 
 ```yaml
 nome: Leandro Lucas Domingos
@@ -65,10 +62,7 @@ hobbies:
 
 <!-- TECH STACK -->
 
-<h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"/>
-  &nbsp;Tech Stack
-</h2>
+<h2>🛠️ Tech Stack</h2>
 
 <table>
 <tr>
@@ -136,7 +130,7 @@ Sistema inteligente para agendamento de quadras e espaços esportivos municipais
 </sub>
 <br/>
 <a href="https://lagoasport.lagoasanta.mg.gov.br/">
-  <img src="https://img.shields.io/badge/▶_Acessar_Aplicação-00ff41?style=for-the-badge&logoColor=black&logo=googlechrome"/>
+  <img src="https://img.shields.io/badge/▶_Acessar_Aplicação-87CEEB?style=for-the-badge&logoColor=black&logo=googlechrome"/>
 </a>
 
 </td>
@@ -152,7 +146,7 @@ Sistema robusto para controle e gestão logística da frota municipal.
 </sub>
 <br/>
 <a href="https://frotaslsteste.lagoasanta.mg.gov.br/">
-  <img src="https://img.shields.io/badge/▶_Acessar_Aplicação-00ff41?style=for-the-badge&logoColor=black&logo=googlechrome"/>
+  <img src="https://img.shields.io/badge/▶_Acessar_Aplicação-87CEEB?style=for-the-badge&logoColor=black&logo=googlechrome"/>
 </a>
 
 </td>
@@ -170,7 +164,7 @@ Portal de transparência e gestão de emendas parlamentares municipais.
 </sub>
 <br/>
 <a href="https://portalemendas.lagoasanta.mg.gov.br/">
-  <img src="https://img.shields.io/badge/▶_Acessar_Aplicação-00ff41?style=for-the-badge&logoColor=black&logo=googlechrome"/>
+  <img src="https://img.shields.io/badge/▶_Acessar_Aplicação-87CEEB?style=for-the-badge&logoColor=black&logo=googlechrome"/>
 </a>
 
 </td>
@@ -211,7 +205,7 @@ Plataforma de transporte por aplicativo focada em Minas Gerais.
 </sub>
 <br/>
 <a href="https://minastaxi.devnity.com.br/">
-  <img src="https://img.shields.io/badge/▶_Acessar_Aplicação-00ff41?style=for-the-badge&logoColor=black&logo=googlechrome"/>
+  <img src="https://img.shields.io/badge/▶_Acessar_Aplicação-87CEEB?style=for-the-badge&logoColor=black&logo=googlechrome"/>
 </a>
 
 </td>
@@ -253,9 +247,9 @@ Plataforma de gestão financeira pessoal com integração via WhatsApp.
 <h2>📊 Estatísticas</h2>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLDomingos&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=8b949e"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLDomingos&layout=compact&bg_color=0d1117&hide_border=true&title_color=87CEEB&text_color=8b949e"/>
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroLDomingos&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41"/>
+  <img height="160" src="https://streak-stats.demolab.com/?user=LeandroLDomingos&background=0d1117&hide_border=true&ring=87CEEB&fire=87CEEB&currStreakLabel=87CEEB&sideLabels=87CEEB&currStreakNum=8b949e&sideNums=8b949e&dates=6e7681"/>
 </div>
 
 ---
@@ -263,7 +257,7 @@ Plataforma de gestão financeira pessoal com integração via WhatsApp.
 <!-- GRAPH -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroLDomingos&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=8b949e&area=true&area_color=00ff41&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroLDomingos&bg_color=0d1117&color=87CEEB&line=87CEEB&point=8b949e&area=true&area_color=87CEEB&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -275,11 +269,11 @@ Plataforma de gestão financeira pessoal com integração via WhatsApp.
 ### 📫 Vamos conversar?
 
 <a href="https://www.leandrolucas.com.br">
-  <img src="https://img.shields.io/badge/Website-leandrolucas.com.br-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Website-leandrolucas.com.br-0d1117?style=for-the-badge&logo=google-chrome&logoColor=87CEEB"/>
 </a>
 &nbsp;
 <a href="https://github.com/LeandroLDomingos">
-  <img src="https://img.shields.io/badge/GitHub-LeandroLDomingos-0d1117?style=for-the-badge&logo=github&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/GitHub-LeandroLDomingos-0d1117?style=for-the-badge&logo=github&logoColor=87CEEB"/>
 </a>
 
 <br/><br/>
@@ -288,8 +282,8 @@ Plataforma de gestão financeira pessoal com integração via WhatsApp.
 "Transformando café ☕ e scripts em soluções reais — do servidor ao cidadão."
 ```
 
-<img src="https://komarev.com/ghpvc/?username=LeandroLDomingos&color=00ff41&style=flat-square&label=Visitantes+do+Perfil"/>
+<img src="https://komarev.com/ghpvc/?username=LeandroLDomingos&color=87CEEB&style=flat-square&label=Visitantes+do+Perfil"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:00ff41&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:87CEEB&height=120&section=footer"/>
