@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6e7681"/>
+      <stop offset="100%" style="stop-color:#484f58"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="200" rx="14" fill="url(#bg)" stroke="#30363d" stroke-width="1"/>
+  <rect x="0" y="0" width="400" height="4" rx="14" fill="url(#accent)"/>
+  <text x="30" y="52" fill="#87CEEB" font-family="Segoe UI,sans-serif" font-size="30">📄</text>
+  <text x="70" y="48" fill="#e6edf3" font-family="Segoe UI,sans-serif" font-size="18" font-weight="bold">Lagoa GED</text>
+  <rect x="295" y="28" width="85" height="22" rx="11" fill="#6e7681" opacity="0.5"/>
+  <text x="337" y="43" text-anchor="middle" fill="#c9d1d9" font-family="Segoe UI,sans-serif" font-size="10" font-weight="bold">🔒 INTERNO</text>
+  <text x="30" y="80" fill="#8b949e" font-family="Segoe UI,sans-serif" font-size="12">Sistema de Gerenciamento Eletrônico de</text>
+  <text x="30" y="97" fill="#8b949e" font-family="Segoe UI,sans-serif" font-size="12">Documentos para digitalização e organização</text>
+  <text x="30" y="114" fill="#8b949e" font-family="Segoe UI,sans-serif" font-size="12">documental interna da prefeitura</text>
+  <rect x="30" y="130" width="58" height="22" rx="6" fill="#1a1f2e" stroke="#30363d" stroke-width="1"/>
+  <text x="59" y="145" text-anchor="middle" fill="#87CEEB" font-family="Segoe UI,sans-serif" font-size="10">Laravel</text>
+  <rect x="96" y="130" width="56" height="22" rx="6" fill="#1a1f2e" stroke="#30363d" stroke-width="1"/>
+  <text x="124" y="145" text-anchor="middle" fill="#87CEEB" font-family="Segoe UI,sans-serif" font-size="10">Inertia</text>
+  <rect x="160" y="130" width="40" height="22" rx="6" fill="#1a1f2e" stroke="#30363d" stroke-width="1"/>
+  <text x="180" y="145" text-anchor="middle" fill="#87CEEB" font-family="Segoe UI,sans-serif" font-size="10">Vue</text>
+  <rect x="208" y="130" width="55" height="22" rx="6" fill="#1a1f2e" stroke="#30363d" stroke-width="1"/>
+  <text x="235" y="145" text-anchor="middle" fill="#87CEEB" font-family="Segoe UI,sans-serif" font-size="10">Docker</text>
+  <rect x="30" y="162" width="170" height="28" rx="8" fill="#6e7681" opacity="0.15" stroke="#6e7681" stroke-width="1"/>
+  <text x="115" y="180" text-anchor="middle" fill="#6e7681" font-family="Segoe UI,sans-serif" font-size="12">🔒 Acesso Restrito</text>
+</svg>
