@@ -33,8 +33,7 @@
 │  > Servidor do zero > Deploy > DNS > Monitoramento                       │
 │                                                                          │
 │  $ cat /etc/hobbies                                                      │
-│  > Teclado & producao musical (Reaper + Kontakt)                         │
-│  > Modding Minecraft (KubeJS + ATM10)                                    │
+│  > Gamer (mass kill, lag, repeat)                                        │
 │                                                                          │
 ╰──────────────────────────────────────────────────────────────────────────╯
 ```
@@ -200,7 +199,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=2000&color=8b949e&center=true&vCenter=true&width=550&lines=%22Transformando+cafe+e+scripts+em+solucoes+reais+%E2%80%94+do+servidor+ao+cidadao.%22" alt="quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=2000&color=8b949e&center=true&vCenter=true&width=700&lines=%22Transformando+cafe+e+scripts+em+solucoes+reais+%E2%80%94+do+servidor+ao+cidadao.%22" alt="quote"/>
 </a>
 
 <br/>
