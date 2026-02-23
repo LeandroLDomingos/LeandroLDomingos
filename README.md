@@ -179,38 +179,7 @@ hobbies:
 <h2>📊 Estatísticas</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LeandroLDomingos&show_icons=true&bg_color=0d1117&hide_border=true&icon_color=87CEEB&title_color=87CEEB&text_color=8b949e&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=LeandroLDomingos&show_icons=true&include_all_commits=true&count_private=true" height="170"/>
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=LeandroLDomingos&background=0d1117&hide_border=true&ring=87CEEB&fire=87CEEB&currStreakLabel=87CEEB&sideLabels=87CEEB&currStreakNum=8b949e&sideNums=8b949e&dates=6e7681"/>
-    <img src="https://streak-stats.demolab.com/?user=LeandroLDomingos" height="170"/>
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLDomingos&layout=compact&bg_color=0d1117&hide_border=true&title_color=87CEEB&text_color=8b949e&langs_count=8"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLDomingos&layout=compact&langs_count=8" height="170"/>
-  </picture>
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-
-<h2>🐍 Minhas contribuições</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeandroLDomingos/LeandroLDomingos/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeandroLDomingos/LeandroLDomingos/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeandroLDomingos/LeandroLDomingos/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img height="180" src="https://streak-stats.demolab.com/?user=LeandroLDomingos&background=0d1117&hide_border=true&ring=87CEEB&fire=87CEEB&currStreakLabel=87CEEB&sideLabels=87CEEB&currStreakNum=8b949e&sideNums=8b949e&dates=6e7681"/>
 </div>
 
 ---
