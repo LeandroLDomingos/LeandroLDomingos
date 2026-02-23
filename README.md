@@ -26,7 +26,7 @@
 │  > Prefeitura de Lagoa Santa, MG                                         │
 │                                                                          │
 │  $ cat /etc/empresa                                                      │
-│  > Fundador & CEO - Devnity (devnity.com.br)                            │
+│  > Fundador & CEO - Devnity (devnity.com.br)                             │
 │                                                                          │
 │  $ cat /etc/role                                                         │
 │  > Full Stack Developer | DevOps Engineer                                │
